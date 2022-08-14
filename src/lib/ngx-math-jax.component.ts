@@ -1,20 +1,18 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from "@angular/core";
 
 @Component({
-  selector: 'lib-ngx-math-jax',
-  template: `
-    <p>
-      ngx-math-jax works!
-    </p>
-  `,
-  styles: [
-  ]
+  selector: "ngx-math-jax",
+  templateUrl: "./ngx-math-jax.component.html",
+  styleUrls: ["./ngx-math-jax.component.css"],
 })
 export class NgxMathJaxComponent implements OnInit {
+  @Input() mathMl: any;
+  @Input() questionNo: any;
+  @Input() answerNo: any;
 
-  constructor() { }
+  constructor() {}
 
-  ngOnInit(): void {
-  }
+  ngOnInit(): void {}
 
+  ngAfterViewInit() {}
 }

@@ -1,15 +1,14 @@
 {
   "name": "@somasekhar1712/ngx-math-jax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Beautiful and accessible math in all browsers. MathJax is an open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all browsers made with Typescript and Angular.",
   "peerDependencies": {
-    "@angular/common": "^13.0.0",
-    "@angular/core": "^13.0.0"
+    "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0",
+    "@angular/core": "^12.0.0 || ^13.0.0 || ^14.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
   },
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

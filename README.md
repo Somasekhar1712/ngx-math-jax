@@ -1,24 +1,5 @@
-# NgxMathJax
+# ngx-math-jax
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.0.
+##### Beautiful and accessible math in all browsers. MathJax is an open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all browsers made with Typescript and Angular.
 
-## Code scaffolding
-
-Run `ng generate component component-name --project ngx-math-jax` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project ngx-math-jax`.
-> Note: Don't forget to add `--project ngx-math-jax` or else it will be added to the default project in your `angular.json` file. 
-
-## Build
-
-Run `ng build ngx-math-jax` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Publishing
-
-After building your library with `ng build ngx-math-jax`, go to the dist folder `cd dist/ngx-math-jax` and run `npm publish`.
-
-## Running unit tests
-
-Run `ng test ngx-math-jax` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Compatible with Angular Cli Version's 12, 13, 14

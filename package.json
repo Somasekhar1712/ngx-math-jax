@@ -1,6 +1,6 @@
 {
   "name": "angular-math-jax",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "Beautiful and accessible math in all browsers. MathJax is an open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all browsers made with Typescript and Angular.",
   "peerDependencies": {
     "@angular/common": "^12.0.0 || ^13.0.0 || ^14.0.0",
